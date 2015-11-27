@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:10
+-keep class com.alertview.MainActivity { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:9
+-keepclassmembers class * { *** alertShow1(...); }
+
+# onClick res/layout/activity_main.xml #generated:13
+-keepclassmembers class * { *** alertShow2(...); }
+
+# onClick res/layout/activity_main.xml #generated:17
+-keepclassmembers class * { *** alertShow3(...); }
+
+# onClick res/layout/activity_main.xml #generated:21
+-keepclassmembers class * { *** alertShow4(...); }
+
+# onClick res/layout/activity_main.xml #generated:25
+-keepclassmembers class * { *** alertShow5(...); }
+
+# onClick res/layout/activity_main.xml #generated:29
+-keepclassmembers class * { *** alertShow6(...); }
+
+# onClick res/layout/activity_main.xml #generated:33
+-keepclassmembers class * { *** alertShowExt(...); }
+
